@@ -21,6 +21,8 @@ Dashboard Highlights
   
   **7 Total Hotels:** Number of hotel properties included in the data.
 
+
+
 **2.Filters (Left Sidebar):**
 
   **City:** Filter bookings and revenue data by city.
@@ -28,6 +30,8 @@ Dashboard Highlights
   **Category:** Filter between Business or Luxury categories.
   
   **Platform:** Filter data by booking platform (e.g., direct offline, direct online, journey, logtrip).
+
+
 
 **3.Visualizations**
 
